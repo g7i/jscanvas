@@ -21,3 +21,9 @@ h2 {
 a {
   text-decoration: none;
 }
+
+.notify {
+  position: absolute;
+  top: 5%;
+  left: 5%;
+}
